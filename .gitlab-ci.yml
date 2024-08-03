@@ -1,0 +1,8 @@
+build the car:
+  script:
+    -  mkrdir build
+    - cd build
+    - touch car.txt
+    -  echo "First ci cd code" > car.txt
+    -  echo "my second line ? " > car.txt
+    -  echo "thrd line too may be ?" > car.txt
