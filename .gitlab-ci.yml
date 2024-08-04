@@ -5,4 +5,6 @@ build the car:
     - touch car.txt
     -  echo "First ci cd code." > car.txt
     -  echo "my second line ? " > car.txt
-    -  echo "thrd line too may be ?" > car.txt
+    -  echo "thrd line too may be ??" > car.txt
+
+runs-on: self-hosted
