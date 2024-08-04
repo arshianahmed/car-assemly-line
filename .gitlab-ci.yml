@@ -4,7 +4,7 @@ build_the_car:
     - mkdir build
     - cd build
     - touch car.txt
-    - echo "First ci cd code." > car.txt
+    - echo "First ci cd codes." > car.txt
     - echo "my second line ? " >> car.txt
     - echo "thrd line too may be ??" >> car.txt
   tags:
